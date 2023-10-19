@@ -1,5 +1,5 @@
 body{
-    background-color: lightblue;
+    background-color: rgb(23, 118, 150);
 }
 h1{
     color: crimson;
@@ -8,7 +8,7 @@ h1{
 }
 
 p{
-    color: black ;
+    color: rgba(17, 0, 0, 0.959) ;
     font-size: 20px;
     text-align: justify;
 }
