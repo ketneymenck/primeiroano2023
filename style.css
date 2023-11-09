@@ -9,6 +9,25 @@ h1{
 
 p{
     color: rgba(17, 0, 0, 0.959) ;
+    text-align:left;
     font-size: 19px;
     text-align: justify;
+}
+
+.logo{
+    width:
+    height:
+    margin:
+    padding:
+    border:
+    border-radius:
+}
+
+.fotos{
+    width: 500px;
+    height: 300px;
+    margin: 10px;
+    padding: 3px;
+    border: 0.5rem solid #2c3546;
+    border-radius: 24px;
 }
